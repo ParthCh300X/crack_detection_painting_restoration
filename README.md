@@ -1,3 +1,4 @@
+
 # Crack Detection and Removal in Digitized Paintings
 
 **ECL-415 Digital Image Processing | IIITN | Group Project**
@@ -134,10 +135,10 @@ All outputs saved to `results/<image_name>/`:
 
 | Name | Roll No. |
 |---|---|
-| Keshav Tak | BT23ECI039 |
-| Kaushik Kumar | BT23ECI044 |
-| Parth Chaudhary | BT23ECI045 |
-| Shreyas Khare | BT23ECI058 |
+| Parth Chaudhary | — |
+| Keshav Tak | — |
+| Kaushik Kumar | — |
+| Shreyas Khare | — |
 
 IIITN — ECE-IoT, Semester VI
 
