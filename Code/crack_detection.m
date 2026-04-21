@@ -16,7 +16,7 @@ end
 gray = im2uint8(gray);
 
 %% ===============================
-% Structuring Element from Paper
+% Structuring Element
 % Square 3x3 with 2 dilations
 % ===============================
 B = strel('square',3);
@@ -49,7 +49,7 @@ crack_map = bwareaopen(crack_map,5);
 BW_Crack_img = ~crack_map;
 
 %% ===============================
-% Show EVERYTHING in One Figure
+% Displaying the outputs of each morphological operations
 % ===============================
 figure('Name','Complete Morphological Processing','NumberTitle','off');
 
