@@ -1,0 +1,13 @@
+RESULTS: painting2
+==================================================
+
+Method               PSNR (dB)      SSIM         MSE       
+--------------------------------------------------------
+Classical + MTM      28.4299        0.8393       93.3446   
+Classical + AD       27.8748        0.8205       106.0722  
+Modern + MTM         27.9085        0.8212       105.2513  
+Modern + AD          27.9047        0.8221       105.3437  
+
+Modern AD improvement over Classical AD:
+  PSNR: +0.0299 dB
+  SSIM: +0.0016
